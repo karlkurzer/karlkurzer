@@ -1,6 +1,6 @@
 Hey there 👋,
 
-I am a Computer Science Ph.D. student passionate about artificial intelligence and web development.
+I am a computer science PhD passionate about artificial intelligence and web development.
 
 Notable projects
 - [ProSeCo Planning - Probabilistic Semantic Cooperative Planning](https://github.com/ProSeCo-Planning) (Ph.D. Thesis)
