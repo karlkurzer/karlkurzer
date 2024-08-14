@@ -7,4 +7,4 @@ Notable projects
 - [Hybrid A* path planner](https://github.com/karlkurzer/path_planner) (Master's Thesis)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlkurzer&count_private=true&show_icons=true)](https://github.com/karlkurzer/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlkurzer&count_private=true&show_icons=true)](https://github.com/karlkurzer)
