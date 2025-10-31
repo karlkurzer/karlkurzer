@@ -1,10 +1,7 @@
-Hey there 👋,
+Hey there 👋
 
-I am a computer science PhD passionate about artificial intelligence and web development.
+I'm Karl, exploring the intersection of AI, cloud, and intelligent systems. I love working on problems where AI meets real-world impact. Always learning, always building :-).
 
-Notable projects
+A couple projects others have found useful:
 - [ProSeCo Planning - Probabilistic Semantic Cooperative Planning](https://github.com/ProSeCo-Planning) (Ph.D. Thesis)
 - [Hybrid A* path planner](https://github.com/karlkurzer/path_planner) (Master's Thesis)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlkurzer&count_private=true&show_icons=true)](https://github.com/karlkurzer)
